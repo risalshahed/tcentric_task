@@ -17,3 +17,18 @@
   margin-top: -3rem;
   color: rgba(25, 25, 25, 0.8);
 }
+
+/* ------------------------ Responsive for Tablet ------------------------ */
+@media (max-width: 768px) {
+  .each-jewelry {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* ------------------------ Responsive for Mobile ------------------------ */
+@media (max-width: 576px) {
+  .each-jewelry {
+    grid-template-columns: repeat(1, 1fr);
+    width: 85%;
+  }
+}

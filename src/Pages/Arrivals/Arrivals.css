@@ -19,3 +19,18 @@
 .each-arrival img {
   width: 100%;
 }
+
+/* ------------------------ Responsive for Tablet ------------------------ */
+@media (max-width: 768px) {
+  .each-arrival {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* ------------------------ Responsive for Mobile ------------------------ */
+@media (max-width: 576px) {
+  .each-arrival {
+    grid-template-columns: repeat(1, 1fr);
+    width: 85%;
+  }
+}

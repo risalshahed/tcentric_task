@@ -2,12 +2,10 @@
   width: 80%;
   margin: 5rem auto;
 }
-
 #moonstone {
   display: flex;
   justify-content: space-between;
 }
-
 /* styles for each individual moonstone */
 .each-moonstone {
   margin: 2rem auto;
@@ -15,7 +13,20 @@
   grid-template-columns: repeat(4, 1fr);
   gap: 2rem 1%;
 }
-
 .each-moonstone img {
   width: 100%;
+}
+/* ------------------------ Responsive for Tablet ------------------------ */
+@media (max-width: 768px) {
+  .each-moonstone {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* ------------------------ Responsive for Mobile ------------------------ */
+@media (max-width: 576px) {
+  .each-moonstone {
+    grid-template-columns: repeat(1, 1fr);
+    width: 85%;
+  }
 }
