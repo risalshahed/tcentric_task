@@ -1,0 +1,65 @@
+.diamonds {
+  margin: 5rem auto;
+  position: relative;
+  width: 80%;
+}
+#diamond {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+/* styles for each individual diamond */
+.each-diamond {
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem 2%;
+}
+
+.each-diamond > div {
+  padding: 1rem 3%;
+}
+
+.each-diamond > div:hover {
+  cursor: pointer;
+  box-shadow: 5px 5px 15px #888;
+}
+
+.each-diamond img {
+  width: 100%;
+  display: block;
+  margin: 1rem auto;
+}
+
+.each-diamond p {
+  text-align: justify;
+}
+
+#variant {
+  display: flex;
+  position: absolute;
+  bottom: -5%;
+  right: 10%;
+}
+
+#variant img {
+  width: 20px;
+  border-radius: 50%;
+  margin-right: 8px;
+}
+
+/* ------------------------ Responsive for Tablet ------------------------ */
+@media (max-width: 768px) {
+  .each-diamond {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* ------------------------ Responsive for Mobile ------------------------ */
+@media (max-width: 576px) {
+  .each-diamond {
+    grid-template-columns: repeat(1, 1fr);
+    width: 85%;
+  }
+}

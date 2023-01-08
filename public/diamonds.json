@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/tBZMcDw/yellow-gold.png",
+    "title": "18k Yellow Gold Eternity Medium Diamond Hoops Earrings",
+    "price": 64500
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/SJH2QPT/moonstone-ring-3.png",
+    "title": "Moonstone Ring With Diamonds - Mirth",
+    "price": 68900
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/jvQCTFP/diamond-yellow-2.png",
+    "title": "Diamonds and Yellow 18K Gold Drop Hoops",
+    "price": 41100
+  },
+  {
+    "id": 4,
+    "variant": [
+      {
+        "img": "https://i.ibb.co/Mf9gNyt/charlie.png",
+        "title": "Cursive Name Necklace with Diamond in Sterling Silver",
+        "price": 19000,
+        "color": "https://i.ibb.co/8XXjwRk/silver.png"
+      },
+      {
+        "img": "https://i.ibb.co/cFv87DC/amanda.png",
+        "title": "Diamond Personalized Name Necklace Cursive in Gold",
+        "price": 19700,
+        "color": "https://i.ibb.co/pWsPhPX/gold-vermeil.png"
+      },
+      {
+        "img": "https://i.ibb.co/G5s4BxL/rebecca.png",
+        "title": "Cursive Name Necklace in Rose Gold Plating Vermeil with Diamond",
+        "price": 19200,
+        "color": "https://i.ibb.co/hdttSrc/rose-gold.png"
+      },
+      {
+        "img": "https://i.ibb.co/VBVdMm1/emily.png",
+        "title": "Cursive Name Necklace Gold Vermeil with Diamond",
+        "price": 22700,
+        "color": "https://i.ibb.co/896v0wv/yellow-gold-variant.png"
+      }
+    ]
+  }
+]

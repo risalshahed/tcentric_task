@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/RPtrScJ/muze-gold-ring.png",
+    "title": "Muze Gold Earrings",
+    "price": 8700
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/FxS2HLW/sterling-silver.png",
+    "title": "Zaza Sterling Silver Necklace",
+    "price": 9200
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/SJH2QPT/moonstone-ring-3.png",
+    "title": "Moonstone Ring - Poise",
+    "price": 7700
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/mR4LK3N/buzz-gold-ring.png",
+    "title": "Buzz 18K Gold Rings",
+    "price": 6400
+  }
+]

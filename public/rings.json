@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/mR4LK3N/buzz-gold-ring.png",
+    "title": "Zaza 18k Gold Ring",
+    "price": 7700
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/F3b2v14/lady-bird.png",
+    "title": "Lady Bird Ring",
+    "price": 9200
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/9NZvVzs/beetle-ring.png",
+    "title": "Courage Beetle Ring",
+    "price": 9300
+  }
+]

@@ -1,0 +1,21 @@
+.moonstones {
+  width: 80%;
+  margin: 5rem auto;
+}
+
+#moonstone {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* styles for each individual moonstone */
+.each-moonstone {
+  margin: 2rem auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem 1%;
+}
+
+.each-moonstone img {
+  width: 100%;
+}

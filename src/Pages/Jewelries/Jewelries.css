@@ -1,0 +1,19 @@
+.jewelries {
+  margin: 5rem auto;
+  width: 80%;
+}
+/* styles for each individual jewelry */
+.each-jewelry {
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem 1%;
+}
+.each-jewelry img {
+  width: 100%;
+}
+.each-jewelry h3 {
+  text-align: center;
+  margin-top: -3rem;
+  color: rgba(25, 25, 25, 0.8);
+}

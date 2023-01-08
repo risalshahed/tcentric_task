@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/r7gjrMS/harlow-ring.png",
+    "title": "Harlow Ring & Wrealth Band & Archer Band",
+    "price": 13400
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/7yVq055/raw-moonstone.png",
+    "title": "Raw Moonstone Ring & Twinkling Band",
+    "price": 10600
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/58LNwd5/moonstone-earring.png",
+    "title": "Moonstone Earrings - Starlight Studs",
+    "price": 10800
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/WcKf44X/harlow-ring-2.png",
+    "title": "Harlow Ring & Twinkling Band",
+    "price": 12000
+  }
+]
